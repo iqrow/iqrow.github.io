@@ -16,6 +16,10 @@ Does it work? Can I learn to speed read and not sacrifice comprehension? I'm goi
 
 But before we begin; let's start with a measurement.
 
+## Who are the experts?
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZwEquW_Yij0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## What are the practicable skills?
 
 **Read just the middle** - read less

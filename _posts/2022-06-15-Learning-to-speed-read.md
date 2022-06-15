@@ -1,5 +1,5 @@
 ---
-title: "So I'm learning to speed read"
+title: "SIMPLE"
 date: 2022-06-15
 ---
 

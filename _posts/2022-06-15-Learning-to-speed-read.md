@@ -29,3 +29,12 @@ But before we begin; let's start with a measurement.
 One of first things I hear about is "subvocalisation" which is your little inner reading voice. Apparently you can stop this? Like there's another level after "stop reading out loud" where you "stop reading _in_ loud".
 
 **Use a pointer** - read smoothly
+
+## Questions going into it
+
+1. How tiring is it?
+2. How much does it effect comprehension?
+3. How much FOMO feeling is there after finishing it?
+4. Will I feel comfortable saying "I read it"?
+5. Can I get through my pile of books with this technique?
+6. Is this something that's limited by my preference of physical books, or is there a big impact by going digital?

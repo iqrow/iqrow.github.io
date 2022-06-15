@@ -8,7 +8,7 @@ Thanks to Learnerbly and the generous learning budget, I've now got wayyy too ma
 Even at my current rate of about 1.5 books a month, it's going to take me 5 years to get through the _current_ pile, let alone the size of this pile 5 years from now.
 
 > "You should learn how to speed read"
-> - my brain, every day for a week
+> my brain, every day for a week
 
 *But is it a real thing?*, Like, I legit don't know. I'm going into this with a load of scepticism, I'm expecting the space to be full of just-buy-my-course and get-rich-quick vibes.
 

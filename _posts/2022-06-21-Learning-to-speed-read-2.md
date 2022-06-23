@@ -1,5 +1,5 @@
 ---
-title: "Speed Reading Part 1"
+title: "Learning to speed read, part 2"
 date: 2022-06-21
 ---
 

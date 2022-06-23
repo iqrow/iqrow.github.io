@@ -3,7 +3,11 @@ title: "Translucency"
 date: 2022-06-23
 ---
 
-Translucency is having communication (e.g. slack channels, notion spaces) that are open for people to find and join, but only if they know to look. As different from opaque where all channels are private and closely guarded, and transparent where all channels are public and all are aware of them.
+**Translucency** is having communication (e.g. slack channels, notion spaces) that are open for people to find and join, but only if they know to look.
+
+Opaque is where all channels are private and closely guarded
+
+Transparent is where all channels are public and all are aware of them.
 
 Translucency - the public slack channels that they could find through searching the channel directory.
 You might even mention them to people when you first create them.

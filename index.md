@@ -1,6 +1,5 @@
 # iqrow
 
-## This is a website
 <ul>
   {% for post in site.posts %}
     <li>

@@ -11,7 +11,7 @@ However I (as if separate from my brain) was like, "no, wait a second, rewind, w
 
 > Kurt Patrick
 
-I was rewarded with a "ah you meant the Kirkpatrick Model", and now I'm reading an [[article][https://www.ardentlearning.com/blog/what-is-the-kirkpatrick-model]] that tells me:
+I was rewarded with a "ah you meant the Kirkpatrick Model", and now I'm reading an [article](https://www.ardentlearning.com/blog/what-is-the-kirkpatrick-model) that tells me:
 
 > The Kirkpatrick Model is a globally recognized method of evaluating the results of training and learning programs.
 

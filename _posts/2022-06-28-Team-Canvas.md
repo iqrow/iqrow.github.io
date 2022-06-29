@@ -5,7 +5,7 @@ date: 2022-06-28
 
 > Get your team on the same page, The Team Canvas is Business Model Canvas for teamwork
 
-States [[Team Canvas][http://theteamcanvas.com/]
+States [Team Canvas](http://theteamcanvas.com/)
 
 My coach Nic first put me onto Team Canvases, and I had my first opportunity to use one today.
 

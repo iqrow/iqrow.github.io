@@ -22,6 +22,7 @@ We tell ourselves we're saving people from "all the messages" they'd have to rea
 We tell ourselves that this is being transparent, but it's not - it's being translucent.
 
 **Lesson Learnt**
+
 Now the team knows the channels and pages are there, now we're all transparent.
 
 There's more discussion to be had around what kind of communication goes where, but that's not what this article is about. The first step is to make sure people are clear on where they can find all relevant communication, where relevant is judged by all of us individually.

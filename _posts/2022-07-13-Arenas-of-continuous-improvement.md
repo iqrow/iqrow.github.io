@@ -3,7 +3,7 @@ title: "Arenas of Continuous Improvement"
 date: 2022-07-13
 ---
 
-My go-to process for learning is Deliberate Practice†. In that process one must identify skills in which to focus attention. But how?
+My go-to process for learning is Deliberate Practice†. In that process one must identify skills to practice. But how?
 
 What follows is a mental model I'm experimenting with.
 

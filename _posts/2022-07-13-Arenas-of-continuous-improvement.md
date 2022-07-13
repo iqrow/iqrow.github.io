@@ -38,7 +38,7 @@ With this plan I'm mindful of what I'm going to be doing, I can be _deliberate_ 
 
 _Plan - I will focus on improving my MongoDB skills, I'll ask Sarah to pair with me on this ticket and make it explicit that I'm trying to develop my skills here._
 
-By asking myself "what are the skills of my team mates I'm working with?", I'm being more mindful of one of the variables(artefacts/people in that arena) and it opens up a different learning opportunity. An arguably better one.
+By asking myself "what are the skills of my team mates I'm working with?", I'm being more mindful of one of the variables (artefacts/people in that arena) and it opens up a different learning opportunity. An arguably better one.
 
 Maybe I'll come back to this article and update it if I find success/failure in this mental model. Or let me know if you find it useful!
 

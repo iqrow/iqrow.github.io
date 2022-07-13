@@ -1,5 +1,5 @@
 ---
-title: "Team Canvas"
+title: "Arenas of Continuous Improvement"
 date: 2022-07-13
 ---
 

@@ -1,11 +1,11 @@
 ---
-title: "How to use Clerk for Auth in a NextJS 13+ app with React Server Components (RSC)"
+title: "How to use Clerk for Auth and keep your own user db in sync"
 date: 2023-5-24
 ---
 
 In this post I'll walk through how I'm using Clerk to authenticate users in my web app as well as how I'm keeping a copy of user data in my own db up to date.
 
-This post started off as an ADR for myself, but I thought if I share it as a blog post others can tell me how to do it better, or at worst you can do it the same way as me.
+This post started off as an ADR for myself, but I thought if I share it as a blog post others can tell me how to do it better, or at worst you can do it the same way as me. This particular project uses nextjs 13+ App Router, React Server Components and is deploying on Vercel.
 
 So before launching into things, I need to say that the solution is like B+ but it's the best I can see right now. I (might) update this post if and when I discover a better one.
 

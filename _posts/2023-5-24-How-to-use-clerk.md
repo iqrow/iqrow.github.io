@@ -44,11 +44,11 @@ If we keep it for a month or two, I'll come back and make a proper sequence diag
 
 We use a Clerk UI Component redirectUrl prop to redirect the user to our api when they sign up.
 Our api endpoint uses Clerk middleware to get the userId. We use the clerkClient to get the full user object and insert it into our db.
-We then redirect the user to the mythtactics client
+We then redirect the user to our app.
 
 We perform an upsert just in case Route B (see below) has somehow beaten us to it.
 ```
-our client                clerk           our api       our db
+our app                clerk           our api       our db
    |---(afterSignUpUrl)--->|                |            |
    |                       |--------------->|            |
    |                       |<--getUser(id)--|            |

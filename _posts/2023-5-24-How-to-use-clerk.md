@@ -9,7 +9,7 @@ This post started off as an ADR for myself, but I thought if I share it as a blo
 
 So before launching into things, I need to say that the solution is like B+ but it's the best I can see right now. I (might) update this post if and when I discover a better one.
 
-## WHy bother with an auth provider at all?
+## Why bother with an auth provider at all?
 I don't want the hassle of setting up or holding onto sensitive or secure data for people.
 
 ## Why Clerk?
